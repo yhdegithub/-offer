@@ -1,6 +1,6 @@
 public class Solution {
       /*
-    *    求 第 i 个 丑数
+    *    求 第 i 个 丑数 ，此外也可以考虑优先队列
     * */
     public int GetUglyNumber_Solution(int n) {
 
